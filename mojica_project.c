@@ -4,7 +4,7 @@ Project: Student-to-Class Management System
 CMSC 21 ST-3L
 Dec 9, 2016
 
-Tested to be fully function on gcc 4.8.4
+Tested to be fully functional on gcc 4.8.4
 */
 #include <stdio.h>
 #include <stdlib.h>
